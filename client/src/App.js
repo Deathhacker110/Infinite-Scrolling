@@ -10,7 +10,6 @@ const API = "http://localhost:3001/events";
 
 // do on thing add the current account as a collaborator to the main account repo then only you can push the code
 
-// to find the merge conflict
 
 function App() {
   const [apidata, setApidata] = useState([]);
