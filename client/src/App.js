@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-
+//you can ignore this line as i'm exxperimenting with multiple github accounts
 const LIMIT = 5;
 const API = "http://localhost:3001/events";
 //note : if you are having one account in the github and if you facing the below error to push the code from another account
@@ -9,6 +9,7 @@ const API = "http://localhost:3001/events";
 //fatal: unable to access 'https://github.com/Deathhacker110/Infinite-Scrolling.git/': The requested URL returned error: 403
 
 // do on thing add the current account as a collaborator to the main account repo then only you can push the code
+
 
 function App() {
   const [apidata, setApidata] = useState([]);
