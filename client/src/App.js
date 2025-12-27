@@ -3,6 +3,12 @@ import axios from "axios";
 
 const LIMIT = 5;
 const API = "http://localhost:3001/events";
+//note : if you are having one account in the github and if you facing the below error to push the code from another account
+// voltuswave@voltuswave-OptiPlex-7050:~/nrael/experiments/infinite scrolling$ git push origin master
+//remote: Permission to Deathhacker110/Infinite-Scrolling.git denied to Kalyan-110.
+//fatal: unable to access 'https://github.com/Deathhacker110/Infinite-Scrolling.git/': The requested URL returned error: 403
+
+// do on thing add the current account as a collaborator to the main account repo then only you can push the code
 
 function App() {
   const [apidata, setApidata] = useState([]);
