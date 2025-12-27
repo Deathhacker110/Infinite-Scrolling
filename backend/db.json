@@ -1,0 +1,27 @@
+{
+  "events": [
+    { "id": 1, "title": "Music Fest", "type": "offline" },
+    { "id": 2, "title": "Tech Conference", "type": "online" },
+    { "id": 3, "title": "Startup Meetup", "type": "offline" },
+    { "id": 4, "title": "AI Webinar", "type": "online" },
+    { "id": 5, "title": "Design Workshop", "type": "offline" },
+
+    { "id": 6, "title": "Cloud Summit", "type": "online" },
+    { "id": 7, "title": "React Bootcamp", "type": "offline" },
+    { "id": 8, "title": "DevOps Talk", "type": "online" },
+    { "id": 9, "title": "Product Launch", "type": "offline" },
+    { "id": 10, "title": "Cyber Security Meet", "type": "offline" },
+
+    { "id": 11, "title": "Blockchain Webinar", "type": "online" },
+    { "id": 12, "title": "Java Conference", "type": "offline" },
+    { "id": 13, "title": "Node.js Meetup", "type": "offline" },
+    { "id": 14, "title": "AI & ML Summit", "type": "online" },
+    { "id": 15, "title": "UI/UX Workshop", "type": "offline" },
+
+    { "id": 16, "title": "Startup Pitch Day", "type": "offline" },
+    { "id": 17, "title": "AWS Training", "type": "online" },
+    { "id": 18, "title": "System Design Talk", "type": "offline" },
+    { "id": 19, "title": "Open Source Meetup", "type": "offline" },
+    { "id": 20, "title": "Tech Career Webinar", "type": "online" }
+  ]
+}
